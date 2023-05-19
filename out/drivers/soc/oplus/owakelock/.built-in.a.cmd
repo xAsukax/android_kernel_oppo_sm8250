@@ -1,1 +1,0 @@
-cmd_drivers/soc/oplus/owakelock/built-in.a :=  rm -f drivers/soc/oplus/owakelock/built-in.a; llvm-ar rcSTPD drivers/soc/oplus/owakelock/built-in.a drivers/soc/oplus/owakelock/oplus_wakelock_profiler.o

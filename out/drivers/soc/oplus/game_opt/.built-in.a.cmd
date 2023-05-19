@@ -1,1 +1,0 @@
-cmd_drivers/soc/oplus/game_opt/built-in.a :=  rm -f drivers/soc/oplus/game_opt/built-in.a; llvm-ar rcSTPD drivers/soc/oplus/game_opt/built-in.a drivers/soc/oplus/game_opt/game_ctrl.o drivers/soc/oplus/game_opt/cpu_load.o drivers/soc/oplus/game_opt/cpufreq_limits.o drivers/soc/oplus/game_opt/task_util.o drivers/soc/oplus/game_opt/rt_info.o drivers/soc/oplus/game_opt/dstate_dump.o

@@ -1,3 +1,0 @@
-net/oplus_connectivity_routerboost/oplus_connectivity_routerboost.ko
-net/oplus_connectivity_routerboost/oplus_routerboost.o net/oplus_connectivity_routerboost/oplus_routerboost_game_monitor.o
-

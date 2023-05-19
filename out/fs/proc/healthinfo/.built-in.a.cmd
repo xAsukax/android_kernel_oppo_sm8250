@@ -1,1 +1,0 @@
-cmd_fs/proc/healthinfo/built-in.a :=  rm -f fs/proc/healthinfo/built-in.a; llvm-ar rcSTPD fs/proc/healthinfo/built-in.a fs/proc/healthinfo/cpuload.o fs/proc/healthinfo/jank_monitor.o fs/proc/healthinfo/fg_uid/built-in.a

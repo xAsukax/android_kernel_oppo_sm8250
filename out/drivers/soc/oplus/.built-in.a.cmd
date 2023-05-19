@@ -1,1 +1,0 @@
-cmd_drivers/soc/oplus/built-in.a :=  rm -f drivers/soc/oplus/built-in.a; llvm-ar rcSTPD drivers/soc/oplus/built-in.a drivers/soc/oplus/device_info/built-in.a drivers/soc/oplus/lowmem_dbg/built-in.a drivers/soc/oplus/midas/built-in.a drivers/soc/oplus/svelte/built-in.a drivers/soc/oplus/thermal/built-in.a

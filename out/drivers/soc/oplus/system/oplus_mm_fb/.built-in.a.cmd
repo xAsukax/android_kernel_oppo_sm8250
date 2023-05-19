@@ -1,1 +1,0 @@
-cmd_drivers/soc/oplus/system/oplus_mm_fb/built-in.a :=  rm -f drivers/soc/oplus/system/oplus_mm_fb/built-in.a; llvm-ar rcSTPD drivers/soc/oplus/system/oplus_mm_fb/built-in.a drivers/soc/oplus/system/oplus_mm_fb/oplus_mm_kevent.o drivers/soc/oplus/system/oplus_mm_fb/oplus_mm_kevent_fb.o

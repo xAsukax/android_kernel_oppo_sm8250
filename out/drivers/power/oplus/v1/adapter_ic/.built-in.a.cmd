@@ -1,1 +1,0 @@
-cmd_drivers/power/oplus/v1/adapter_ic/built-in.a :=  rm -f drivers/power/oplus/v1/adapter_ic/built-in.a; llvm-ar rcSTPD drivers/power/oplus/v1/adapter_ic/built-in.a drivers/power/oplus/v1/adapter_ic/oplus_stm.o

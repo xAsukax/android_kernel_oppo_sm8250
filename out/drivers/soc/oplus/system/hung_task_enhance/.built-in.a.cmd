@@ -1,1 +1,0 @@
-cmd_drivers/soc/oplus/system/hung_task_enhance/built-in.a :=  rm -f drivers/soc/oplus/system/hung_task_enhance/built-in.a; llvm-ar rcSTPD drivers/soc/oplus/system/hung_task_enhance/built-in.a drivers/soc/oplus/system/hung_task_enhance/hung_task_enhance.o

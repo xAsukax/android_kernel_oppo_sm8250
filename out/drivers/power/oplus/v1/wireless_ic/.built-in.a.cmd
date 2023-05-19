@@ -1,1 +1,0 @@
-cmd_drivers/power/oplus/v1/wireless_ic/built-in.a :=  rm -f drivers/power/oplus/v1/wireless_ic/built-in.a; llvm-ar rcSTPD drivers/power/oplus/v1/wireless_ic/built-in.a drivers/power/oplus/v1/wireless_ic/oplus_p9418.o drivers/power/oplus/v1/wireless_ic/oplus_p922x.o drivers/power/oplus/v1/wireless_ic/oplus_nu1619.o drivers/power/oplus/v1/wireless_ic/oplus_chargepump.o

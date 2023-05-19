@@ -1,1 +1,0 @@
-cmd_drivers/misc/tri_state_key/hall_ic/built-in.a :=  rm -f drivers/misc/tri_state_key/hall_ic/built-in.a; llvm-ar rcSTPD drivers/misc/tri_state_key/hall_ic/built-in.a drivers/misc/tri_state_key/hall_ic/hall_mxm1120_up.o drivers/misc/tri_state_key/hall_ic/hall_mxm1120_down.o

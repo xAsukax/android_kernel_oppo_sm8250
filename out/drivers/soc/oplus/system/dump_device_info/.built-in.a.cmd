@@ -1,1 +1,0 @@
-cmd_drivers/soc/oplus/system/dump_device_info/built-in.a :=  rm -f drivers/soc/oplus/system/dump_device_info/built-in.a; llvm-ar rcSTPD drivers/soc/oplus/system/dump_device_info/built-in.a drivers/soc/oplus/system/dump_device_info/dump_device_info.o

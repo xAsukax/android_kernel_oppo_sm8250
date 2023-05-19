@@ -1,3 +1,0 @@
-kernel/drivers/soc/oplus/sensor/oplus_sensor.ko
-kernel/drivers/soc/oplus/sensor/oplus_sensor_feedback/oplus_bsp_sensor_feedback.ko
-kernel/drivers/soc/oplus/sensor/oplus_ssc_interact/ssc_interact.ko

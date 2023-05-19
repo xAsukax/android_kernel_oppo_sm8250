@@ -1,1 +1,0 @@
-cmd_drivers/input/oplus_fp_drivers/anc_driver/built-in.a :=  rm -f drivers/input/oplus_fp_drivers/anc_driver/built-in.a; llvm-ar rcSTPD drivers/input/oplus_fp_drivers/anc_driver/built-in.a drivers/input/oplus_fp_drivers/anc_driver/jiiov_platform.o drivers/input/oplus_fp_drivers/anc_driver/jiiov_netlink.o

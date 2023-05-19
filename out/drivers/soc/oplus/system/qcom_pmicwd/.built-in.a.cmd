@@ -1,1 +1,0 @@
-cmd_drivers/soc/oplus/system/qcom_pmicwd/built-in.a :=  rm -f drivers/soc/oplus/system/qcom_pmicwd/built-in.a; llvm-ar rcSTPD drivers/soc/oplus/system/qcom_pmicwd/built-in.a drivers/soc/oplus/system/qcom_pmicwd/qcom_pmicwd.o drivers/soc/oplus/system/qcom_pmicwd/qcom_pwkpwr.o

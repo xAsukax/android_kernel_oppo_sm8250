@@ -1,5 +1,0 @@
-kernel/drivers/net/ethernet/aquantia/atlantic-fwd/atlantic-fwd.ko
-kernel/drivers/net/ethernet/cavium/common/cavium_ptp.ko
-kernel/drivers/net/ethernet/marvell/sky2.ko
-kernel/drivers/net/ethernet/qualcomm/rmnet/rmnet.ko
-kernel/drivers/net/ethernet/smsc/smsc911x.ko

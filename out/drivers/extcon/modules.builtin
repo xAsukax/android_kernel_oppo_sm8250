@@ -1,3 +1,0 @@
-kernel/drivers/extcon/extcon-core.ko
-kernel/drivers/extcon/extcon-gpio.ko
-kernel/drivers/extcon/extcon-usb-gpio.ko

@@ -1,1 +1,0 @@
-cmd_drivers/soc/oplus/system/cmdline_parser/built-in.a :=  rm -f drivers/soc/oplus/system/cmdline_parser/built-in.a; llvm-ar rcSTPD drivers/soc/oplus/system/cmdline_parser/built-in.a drivers/soc/oplus/system/cmdline_parser/saupwk.o drivers/soc/oplus/system/cmdline_parser/shutdown_speed.o

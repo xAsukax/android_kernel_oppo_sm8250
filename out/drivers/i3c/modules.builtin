@@ -1,2 +1,0 @@
-kernel/drivers/i3c/i3c.ko
-kernel/drivers/i3c/master/i3c-master-qcom-geni.ko

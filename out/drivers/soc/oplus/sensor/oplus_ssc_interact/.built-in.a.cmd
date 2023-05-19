@@ -1,1 +1,0 @@
-cmd_drivers/soc/oplus/sensor/oplus_ssc_interact/built-in.a :=  rm -f drivers/soc/oplus/sensor/oplus_ssc_interact/built-in.a; llvm-ar rcSTPD drivers/soc/oplus/sensor/oplus_ssc_interact/built-in.a drivers/soc/oplus/sensor/oplus_ssc_interact/oplus_ssc_interact.o

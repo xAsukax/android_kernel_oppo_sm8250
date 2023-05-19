@@ -1,1 +1,0 @@
-cmd_drivers/nfc/built-in.a :=  rm -f drivers/nfc/built-in.a; llvm-ar rcSTPD drivers/nfc/built-in.a drivers/nfc/nq-nci.o drivers/nfc/oplus_nfc/built-in.a drivers/nfc/pn553-i2c/built-in.a drivers/nfc/p73-spi/built-in.a

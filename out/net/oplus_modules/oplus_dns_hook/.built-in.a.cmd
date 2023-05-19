@@ -1,1 +1,0 @@
-cmd_net/oplus_modules/oplus_dns_hook/built-in.a :=  rm -f net/oplus_modules/oplus_dns_hook/built-in.a; llvm-ar rcSTPD net/oplus_modules/oplus_dns_hook/built-in.a net/oplus_modules/oplus_dns_hook/oplus_dns_hook.o

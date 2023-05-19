@@ -1,1 +1,0 @@
-cmd_drivers/input/oplus_fp_drivers/built-in.a :=  rm -f drivers/input/oplus_fp_drivers/built-in.a; llvm-ar rcSTPD drivers/input/oplus_fp_drivers/built-in.a drivers/input/oplus_fp_drivers/oplus_fp_common/built-in.a drivers/input/oplus_fp_drivers/goodix_optical_fp/built-in.a drivers/input/oplus_fp_drivers/anc_driver/built-in.a

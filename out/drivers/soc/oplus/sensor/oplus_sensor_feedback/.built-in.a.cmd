@@ -1,1 +1,0 @@
-cmd_drivers/soc/oplus/sensor/oplus_sensor_feedback/built-in.a :=  rm -f drivers/soc/oplus/sensor/oplus_sensor_feedback/built-in.a; llvm-ar rcSTPD drivers/soc/oplus/sensor/oplus_sensor_feedback/built-in.a drivers/soc/oplus/sensor/oplus_sensor_feedback/sensor_feedback.o

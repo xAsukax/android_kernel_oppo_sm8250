@@ -1,2 +1,0 @@
-kernel/drivers/iio/proximity/inv_ch101/ch101-core.ko
-kernel/drivers/iio/proximity/inv_ch101/ch101-i2c.ko

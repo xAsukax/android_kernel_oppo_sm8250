@@ -1,8 +1,0 @@
-kernel/drivers/iio/industrialio.ko
-kernel/drivers/iio/adc/qcom-spmi-adc5.ko
-kernel/drivers/iio/adc/qcom-vadc-common.ko
-kernel/drivers/iio/buffer/industrialio-triggered-buffer.ko
-kernel/drivers/iio/buffer/kfifo_buf.ko
-kernel/drivers/iio/proximity/inv_ch101/ch101-core.ko
-kernel/drivers/iio/proximity/inv_ch101/ch101-i2c.ko
-kernel/drivers/iio/temperature/tdk_thermistor.ko

@@ -1,1 +1,0 @@
-cmd_drivers/soc/oplus/system/oplus_project/built-in.a :=  rm -f drivers/soc/oplus/system/oplus_project/built-in.a; llvm-ar rcSTPD drivers/soc/oplus/system/oplus_project/built-in.a drivers/soc/oplus/system/oplus_project/qcom/oplus_project.o

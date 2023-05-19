@@ -1,4 +1,0 @@
-kernel/drivers/soc/oplus/system/theia/black_screen_check.ko
-kernel/drivers/soc/oplus/system/theia/bright_screen_check.ko
-kernel/drivers/soc/oplus/system/theia/theia_kevent_kernel.ko
-kernel/drivers/soc/oplus/system/theia/powerkey_monitor.ko
