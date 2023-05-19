@@ -1,0 +1,1 @@
+cmd_drivers/input/oplus_secure_drivers/oplus_secure_common/built-in.a :=  rm -f drivers/input/oplus_secure_drivers/oplus_secure_common/built-in.a; llvm-ar rcSTPD drivers/input/oplus_secure_drivers/oplus_secure_common/built-in.a drivers/input/oplus_secure_drivers/oplus_secure_common/oplus_secure_common.o

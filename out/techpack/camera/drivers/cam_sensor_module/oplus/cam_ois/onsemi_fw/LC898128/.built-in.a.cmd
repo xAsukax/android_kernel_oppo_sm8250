@@ -1,0 +1,1 @@
+cmd_techpack/camera/drivers/cam_sensor_module/oplus/cam_ois/onsemi_fw/LC898128/built-in.a :=  rm -f techpack/camera/drivers/cam_sensor_module/oplus/cam_ois/onsemi_fw/LC898128/built-in.a; llvm-ar rcSTPD techpack/camera/drivers/cam_sensor_module/oplus/cam_ois/onsemi_fw/LC898128/built-in.a techpack/camera/drivers/cam_sensor_module/oplus/cam_ois/onsemi_fw/LC898128/PhoneUpdate.o

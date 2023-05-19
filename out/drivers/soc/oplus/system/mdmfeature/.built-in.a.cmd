@@ -1,0 +1,1 @@
+cmd_drivers/soc/oplus/system/mdmfeature/built-in.a :=  rm -f drivers/soc/oplus/system/mdmfeature/built-in.a; llvm-ar rcSTPD drivers/soc/oplus/system/mdmfeature/built-in.a drivers/soc/oplus/system/mdmfeature/oplus_mdmfeature.o

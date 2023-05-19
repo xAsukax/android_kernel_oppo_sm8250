@@ -1,0 +1,15 @@
+!<thin>
+//                                              88        `
+pinctrl-wcd.o/
+pinctrl-lpi.o/
+regmap-swr.o/
+soundwire.o/
+snd_event.o/
+swr-mstr-ctrl.o/
+
+/0              0           0     0     644     192480    `
+/15             0           0     0     644     233752    `
+/30             0           0     0     644     161136    `
+/44             0           0     0     644     180920    `
+/57             0           0     0     644     114528    `
+/70             0           0     0     644     453840    `

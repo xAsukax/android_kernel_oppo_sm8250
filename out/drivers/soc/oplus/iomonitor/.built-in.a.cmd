@@ -1,0 +1,1 @@
+cmd_drivers/soc/oplus/iomonitor/built-in.a :=  rm -f drivers/soc/oplus/iomonitor/built-in.a; llvm-ar rcSTPD drivers/soc/oplus/iomonitor/built-in.a drivers/soc/oplus/iomonitor/console.o drivers/soc/oplus/iomonitor/iomonitor.o drivers/soc/oplus/iomonitor/iotrace.o drivers/soc/oplus/iomonitor/uid_status.o

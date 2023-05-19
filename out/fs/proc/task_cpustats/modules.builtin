@@ -1,0 +1,2 @@
+kernel/fs/proc/task_cpustats/task_cpustats.ko
+kernel/fs/proc/task_cpustats/task_sched_info.ko

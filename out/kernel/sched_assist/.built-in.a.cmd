@@ -1,0 +1,1 @@
+cmd_kernel/sched_assist/built-in.a :=  rm -f kernel/sched_assist/built-in.a; llvm-ar rcSTPD kernel/sched_assist/built-in.a kernel/sched_assist/sched_assist_common.o kernel/sched_assist/sched_assist_mutex.o kernel/sched_assist/sched_assist_rwsem.o kernel/sched_assist/sched_assist_futex.o kernel/sched_assist/sched_assist_workqueue.o

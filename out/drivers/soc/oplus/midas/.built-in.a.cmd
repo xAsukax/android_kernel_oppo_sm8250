@@ -1,0 +1,1 @@
+cmd_drivers/soc/oplus/midas/built-in.a :=  rm -f drivers/soc/oplus/midas/built-in.a; llvm-ar rcSTPD drivers/soc/oplus/midas/built-in.a drivers/soc/oplus/midas/midas_dev.o drivers/soc/oplus/midas/midas_ioctl.o drivers/soc/oplus/midas/binder_stats_dev.o

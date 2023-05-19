@@ -1,0 +1,280 @@
+!<thin>
+//                                              4014      `
+qcom/cmd-db.o/
+qcom/mdt_loader.o/
+qcom/qmi_encdec.o/
+qcom/qmi_interface.o/
+qcom/qmi_rmnet.o/
+qcom/dfc_qmi.o/
+qcom/dfc_qmap.o/
+qcom/wda_qmi.o/
+qcom/rpmh-rsc.o/
+qcom/rpmh.o/
+qcom/smem.o/
+qcom/smem_state.o/
+qcom/smp2p.o/
+qcom/qcom_ipcc.o/
+qcom/llcc-slice.o/
+qcom/llcc-kona.o/
+qcom/secure_buffer.o/
+qcom/scm.o/
+qcom/early_random.o/
+qcom/spss_utils.o/
+qcom/qtee_shmbridge.o/
+qcom/boot_stats.o/
+qcom/msm_minidump.o/
+qcom/minidump_log.o/
+qcom/memory_dump_v2.o/
+qcom/dcc_v2.o/
+qcom/service-notifier.o/
+qcom/service-locator.o/
+qcom/sysmon-qmi.o/
+qcom/subsys-pil-tz.o/
+qcom/peripheral-loader.o/
+qcom/spcom.o/
+qcom/qdsp6v2/cdsp-loader.o/
+qcom/smcinvoke.o/
+qcom/rq_stats.o/
+qcom/subsystem_notif.o/
+qcom/subsystem_restart.o/
+qcom/ramdump.o/
+qcom/microdump_collector.o/
+qcom/eud.o/
+qcom/socinfo.o/
+qcom/watchdog_v2.o/
+qcom/oplus_watchdog_util.o/
+qcom/msm_bus/msm_bus_core.o/
+qcom/msm_bus/msm_bus_client_api.o/
+qcom/msm_bus/msm_bus_of.o/
+qcom/msm_bus/msm_bus_fabric_rpmh.o/
+qcom/msm_bus/msm_bus_arb_rpmh.o/
+qcom/msm_bus/msm_bus_rules.o/
+qcom/msm_bus/msm_bus_bimc_rpmh.o/
+qcom/msm_bus/msm_bus_noc_rpmh.o/
+qcom/msm_bus/msm_bus_proxy_client.o/
+qcom/msm_bus/msm_bus_of_rpmh.o/
+qcom/fsa4480-i2c.o/
+qcom/glink_probe.o/
+qcom/glink_pkt.o/
+qcom/smp2p_sleepstate.o/
+qcom/qdss_bridge.o/
+qcom/qbt_handler.o/
+qcom/qsee_ipc_irq.o/
+qcom/qsee_ipc_irq_bridge.o/
+qcom/qpnp-pbs.o/
+qcom/system_pm.o/
+qcom/event_timer.o/
+qcom/rpmh_master_stat.o/
+qcom/rpmh_modem_sleepinfo.o/
+qcom/rpm_stats.o/
+qcom/ddr_stats.o/
+qcom/msm_performance.o/
+qcom/cdsprm.o/
+qcom/rmnet_ctl/rmnet_ctl_client.o/
+qcom/rmnet_ctl/rmnet_ctl_mhi.o/
+qcom/crypto-qti-common.o/
+qcom/crypto-qti-tz.o/
+qcom/serial_num.o/
+oplus/device_info/device_info.o/
+oplus/lowmem_dbg/lowmem_dbg.o/
+oplus/midas/midas_dev.o/
+oplus/midas/midas_ioctl.o/
+oplus/midas/binder_stats_dev.o/
+oplus/svelte/svelte_logger.o/
+oplus/thermal/horae_shell_temp.o/
+oplus/system/platform.o/
+oplus/system/feedback/kernel_fb.o/
+oplus/system/uboot_log/uboot_log.o/
+oplus/system/shutdown_detect/shutdown_detect.o/
+oplus/system/oplus_project/qcom/oplus_project.o/
+oplus/system/qcom_minidump/qcom_minidump_enhance.o/
+oplus/system/qcom_minidump/get_regs.o/
+oplus/system/hung_task_enhance/hung_task_enhance.o/
+oplus/system/oplus_phoenix/op_bootprof.o/
+oplus/system/oplus_phoenix/phoenix_base.o/
+oplus/system/oplus_phoenix/phoenix_dump.o/
+oplus/system/oplus_phoenix/phoenix_watchdog.o/
+oplus/system/oplus_phoenix/oplus_kmsg_wb.o/
+oplus/system/oplus_phoenix/phoenix_reboot_speed.o/
+oplus/system/oplus_pmic_monitor/oplus_pmic_info_smem.o/
+oplus/system/oplus_pmic_monitor/main.o/
+oplus/system/oplus_saupwk/oplus_saupwk.o/
+oplus/system/dump_device_info/dump_device_info.o/
+oplus/system/mdmrst/oplus_mdmrst.o/
+oplus/system/cmdline_parser/saupwk.o/
+oplus/system/cmdline_parser/shutdown_speed.o/
+oplus/system/project_info/boot_mode.o/
+oplus/system/qcom_pmicwd/qcom_pmicwd.o/
+oplus/system/qcom_pmicwd/qcom_pwkpwr.o/
+oplus/system/oplus_mm_fb/oplus_mm_kevent.o/
+oplus/system/oplus_mm_fb/oplus_mm_kevent_fb.o/
+oplus/system/acm/acm.o/
+oplus/system/theia/black_screen_check.o/
+oplus/system/theia/bright_screen_check.o/
+oplus/system/theia/theia_kevent_kernel.o/
+oplus/system/theia/powerkey_monitor.o/
+oplus/system/selinux/proc.o/
+oplus/system/mdmfeature/oplus_mdmfeature.o/
+oplus/system/olc/olc_main.o/
+oplus/system/olc/olc_debug.o/
+oplus/system/oplus_fdleak/oplus_fdleak_check.o/
+oplus/iomonitor/console.o/
+oplus/iomonitor/iomonitor.o/
+oplus/iomonitor/iotrace.o/
+oplus/iomonitor/uid_status.o/
+oplus/sensor/oplus_sensor_devinfo.o/
+oplus/sensor/oplus_press_cali_info.o/
+oplus/sensor/oplus_pad_als_info.o/
+oplus/sensor/oplus_ssc_interact/oplus_ssc_interact.o/
+oplus/sensor/oplus_sensor_feedback/sensor_feedback.o/
+oplus/healthinfo/healthinfo.o/
+oplus/owakelock/oplus_wakelock_profiler.o/
+oplus/misc/oplus_gpio/oplus_gpio.o/
+oplus/tpp/tpp.o/
+oplus/im/im.o/
+oplus/tpd/tpd.o/
+oplus/game_opt/game_ctrl.o/
+oplus/game_opt/cpu_load.o/
+oplus/game_opt/cpufreq_limits.o/
+oplus/game_opt/task_util.o/
+oplus/game_opt/rt_info.o/
+oplus/game_opt/dstate_dump.o/
+/0              0           0     0     644     157176    `
+/15             0           0     0     644     90080     `
+/34             0           0     0     644     40720     `
+/53             0           0     0     644     385080    `
+/75             0           0     0     644     476760    `
+/93             0           0     0     644     581200    `
+/109            0           0     0     644     306680    `
+/126            0           0     0     644     363328    `
+/142            0           0     0     644     349232    `
+/159            0           0     0     644     123000    `
+/172            0           0     0     644     209176    `
+/185            0           0     0     644     98616     `
+/204            0           0     0     644     162872    `
+/218            0           0     0     644     240112    `
+/236            0           0     0     644     130512    `
+/255            0           0     0     644     84432     `
+/273            0           0     0     644     308824    `
+/295            0           0     0     644     274200    `
+/307            0           0     0     644     12280     `
+/328            0           0     0     644     271952    `
+/347            0           0     0     644     172256    `
+/370            0           0     0     644     96176     `
+/389            0           0     0     644     59496     `
+/410            0           0     0     644     135392    `
+/431            0           0     0     644     226968    `
+/454            0           0     0     644     325992    `
+/469            0           0     0     644     117368    `
+/494            0           0     0     644     100680    `
+/518            0           0     0     644     104104    `
+/537            0           0     0     644     437624    `
+/559            0           0     0     644     465904    `
+/585            0           0     0     644     391456    `
+/599            0           0     0     644     95928     `
+/627            0           0     0     644     350976    `
+/645            0           0     0     644     94104     `
+/662            0           0     0     644     146184    `
+/686            0           0     0     644     448168    `
+/712            0           0     0     644     206424    `
+/728            0           0     0     644     18768     `
+/756            0           0     0     644     237080    `
+/768            0           0     0     644     207080    `
+/784            0           0     0     644     255976    `
+/804            0           0     0     644     163984    `
+/832            0           0     0     644     144864    `
+/861            0           0     0     644     147912    `
+/896            0           0     0     644     194408    `
+/923            0           0     0     644     287032    `
+/959            0           0     0     644     263424    `
+/992            0           0     0     644     382728    `
+/1022           0           0     0     644     152032    `
+/1056           0           0     0     644     153400    `
+/1089           0           0     0     644     125280    `
+/1126           0           0     0     644     198408    `
+/1158           0           0     0     644     389728    `
+/1178           0           0     0     644     181728    `
+/1198           0           0     0     644     252000    `
+/1216           0           0     0     644     205976    `
+/1241           0           0     0     644     259752    `
+/1261           0           0     0     644     277832    `
+/1281           0           0     0     644     135120    `
+/1302           0           0     0     644     194352    `
+/1330           0           0     0     644     111944    `
+/1347           0           0     0     644     78400     `
+/1365           0           0     0     644     130744    `
+/1385           0           0     0     644     185432    `
+/1410           0           0     0     644     269232    `
+/1439           0           0     0     644     143104    `
+/1457           0           0     0     644     161328    `
+/1475           0           0     0     644     254936    `
+/1499           0           0     0     644     245984    `
+/1514           0           0     0     644     159352    `
+/1549           0           0     0     644     174928    `
+/1581           0           0     0     644     135224    `
+/1607           0           0     0     644     19872     `
+/1629           0           0     0     644     145272    `
+/1648           0           0     0     644     252776    `
+/1681           0           0     0     644     271944    `
+/1712           0           0     0     644     167320    `
+/1737           0           0     0     644     128360    `
+/1764           0           0     0     644     243832    `
+/1796           0           0     0     644     214072    `
+/1826           0           0     0     644     169368    `
+/1860           0           0     0     644     4200      `
+/1885           0           0     0     644     370264    `
+/1920           0           0     0     644     158216    `
+/1956           0           0     0     644     270440    `
+/2004           0           0     0     644     250656    `
+/2053           0           0     0     644     22736     `
+/2105           0           0     0     644     2280      `
+/2144           0           0     0     644     73992     `
+/2196           0           0     0     644     166448    `
+/2238           0           0     0     644     41440     `
+/2281           0           0     0     644     212864    `
+/2324           0           0     0     644     207752    `
+/2371           0           0     0     644     214016    `
+/2415           0           0     0     644     263240    `
+/2466           0           0     0     644     5584      `
+/2522           0           0     0     644     113744    `
+/2562           0           0     0     644     124928    `
+/2604           0           0     0     644     144136    `
+/2654           0           0     0     644     147608    `
+/2690           0           0     0     644     109520    `
+/2728           0           0     0     644     109704    `
+/2774           0           0     0     644     130080    `
+/2813           0           0     0     644     239624    `
+/2853           0           0     0     644     194960    `
+/2893           0           0     0     644     346896    `
+/2937           0           0     0     644     366328    `
+/2984           0           0     0     644     351632    `
+/3008           0           0     0     644     180352    `
+/3049           0           0     0     644     180832    `
+/3091           0           0     0     644     324048    `
+/3133           0           0     0     644     199704    `
+/3172           0           0     0     644     125416    `
+/3201           0           0     0     644     151176    `
+/3245           0           0     0     644     230296    `
+/3274           0           0     0     644     138072    `
+/3304           0           0     0     644     143888    `
+/3352           0           0     0     644     127824    `
+/3379           0           0     0     644     418136    `
+/3408           0           0     0     644     314384    `
+/3435           0           0     0     644     255224    `
+/3465           0           0     0     644     392464    `
+/3502           0           0     0     644     199312    `
+/3540           0           0     0     644     237816    `
+/3575           0           0     0     644     185704    `
+/3629           0           0     0     644     413344    `
+/3683           0           0     0     644     343024    `
+/3714           0           0     0     644     298808    `
+/3757           0           0     0     644     210304    `
+/3793           0           0     0     644     199320    `
+/3810           0           0     0     644     66896     `
+/3825           0           0     0     644     161064    `
+/3842           0           0     0     644     6584      `
+/3870           0           0     0     644     320480    `
+/3897           0           0     0     644     326088    `
+/3930           0           0     0     644     338592    `
+/3958           0           0     0     644     337424    `
+/3984           0           0     0     644     327608    `

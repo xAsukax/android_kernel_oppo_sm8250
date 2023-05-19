@@ -1,0 +1,44 @@
+!<thin>
+//                                              406       `
+coresight.o/
+coresight-etm-perf.o/
+of_coresight.o/
+coresight-tmc.o/
+coresight-tmc-etf.o/
+coresight-tmc-etr.o/
+coresight-byte-cntr.o/
+coresight-funnel.o/
+coresight-replicator.o/
+coresight-dynamic-replicator.o/
+coresight-stm.o/
+coresight-cti.o/
+coresight-ost.o/
+coresight-tpda.o/
+coresight-tpdm.o/
+coresight-csr.o/
+coresight-hwevent.o/
+coresight-dummy.o/
+coresight-remote-etm.o/
+coresight-tgu.o/
+apss_tgu.o/
+/0              0           0     0     644     324936    `
+/13             0           0     0     644     241424    `
+/35             0           0     0     644     206304    `
+/51             0           0     0     644     333096    `
+/68             0           0     0     644     252368    `
+/89             0           0     0     644     378432    `
+/110            0           0     0     644     275000    `
+/133            0           0     0     644     233776    `
+/153            0           0     0     644     204232    `
+/177            0           0     0     644     223928    `
+/209            0           0     0     644     321504    `
+/226            0           0     0     644     356144    `
+/243            0           0     0     644     123792    `
+/260            0           0     0     644     268304    `
+/278            0           0     0     644     666304    `
+/296            0           0     0     644     256416    `
+/313            0           0     0     644     214864    `
+/334            0           0     0     644     199608    `
+/353            0           0     0     644     214040    `
+/377            0           0     0     644     232496    `
+/394            0           0     0     644     224312    `

@@ -1,0 +1,1 @@
+cmd_fs/erofs/built-in.a :=  rm -f fs/erofs/built-in.a; llvm-ar rcSTPD fs/erofs/built-in.a fs/erofs/super.o fs/erofs/inode.o fs/erofs/data.o fs/erofs/namei.o fs/erofs/dir.o fs/erofs/utils.o fs/erofs/xattr.o fs/erofs/decompressor.o fs/erofs/zmap.o fs/erofs/zdata.o fs/erofs/lz4.o fs/erofs/lz4armv8/lz4accel.o fs/erofs/lz4armv8/lz4armv8.o

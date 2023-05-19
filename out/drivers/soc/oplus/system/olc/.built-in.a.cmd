@@ -1,0 +1,1 @@
+cmd_drivers/soc/oplus/system/olc/built-in.a :=  rm -f drivers/soc/oplus/system/olc/built-in.a; llvm-ar rcSTPD drivers/soc/oplus/system/olc/built-in.a drivers/soc/oplus/system/olc/olc_main.o drivers/soc/oplus/system/olc/olc_debug.o

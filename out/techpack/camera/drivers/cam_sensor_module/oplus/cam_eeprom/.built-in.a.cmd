@@ -1,0 +1,1 @@
+cmd_techpack/camera/drivers/cam_sensor_module/oplus/cam_eeprom/built-in.a :=  rm -f techpack/camera/drivers/cam_sensor_module/oplus/cam_eeprom/built-in.a; llvm-ar rcSTPD techpack/camera/drivers/cam_sensor_module/oplus/cam_eeprom/built-in.a techpack/camera/drivers/cam_sensor_module/oplus/cam_eeprom/oplus_cam_eeprom_core.o

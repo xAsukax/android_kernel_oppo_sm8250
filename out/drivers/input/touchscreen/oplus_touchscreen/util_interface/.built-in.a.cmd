@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/oplus_touchscreen/util_interface/built-in.a :=  rm -f drivers/input/touchscreen/oplus_touchscreen/util_interface/built-in.a; llvm-ar rcSTPD drivers/input/touchscreen/oplus_touchscreen/util_interface/built-in.a drivers/input/touchscreen/oplus_touchscreen/util_interface/touch_interfaces.o

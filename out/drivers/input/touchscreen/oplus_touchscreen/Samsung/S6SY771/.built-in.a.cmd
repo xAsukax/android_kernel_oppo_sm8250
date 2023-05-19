@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/oplus_touchscreen/Samsung/S6SY771/built-in.a :=  rm -f drivers/input/touchscreen/oplus_touchscreen/Samsung/S6SY771/built-in.a; llvm-ar rcSTPD drivers/input/touchscreen/oplus_touchscreen/Samsung/S6SY771/built-in.a drivers/input/touchscreen/oplus_touchscreen/Samsung/S6SY771/sec_drivers_s6sy771.o

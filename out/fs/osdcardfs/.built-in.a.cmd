@@ -1,0 +1,1 @@
+cmd_fs/osdcardfs/built-in.a :=  rm -f fs/osdcardfs/built-in.a; llvm-ar rcSTPD fs/osdcardfs/built-in.a fs/osdcardfs/dentry.o fs/osdcardfs/file.o fs/osdcardfs/inode.o fs/osdcardfs/main.o fs/osdcardfs/super.o fs/osdcardfs/lookup.o fs/osdcardfs/mmap.o fs/osdcardfs/packagelist.o fs/osdcardfs/derived_perm.o

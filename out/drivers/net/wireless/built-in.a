@@ -1,0 +1,28 @@
+!<thin>
+//                                              300       `
+cnss2/main.o/
+cnss2/bus.o/
+cnss2/debug.o/
+cnss2/pci.o/
+cnss2/power.o/
+cnss2/genl.o/
+cnss2/qmi.o/
+cnss2/coexistence_service_v01.o/
+cnss2/ip_multimedia_subsystem_private_service_v01.o/
+cnss_utils/cnss_utils.o/
+cnss_utils/wlan_firmware_service_v01.o/
+cnss_prealloc/cnss_prealloc.o/
+cnss_genl/cnss_nl.o/
+/0              0           0     0     644     651672    `
+/14             0           0     0     644     334880    `
+/27             0           0     0     644     270872    `
+/42             0           0     0     644     816248    `
+/55             0           0     0     644     364760    `
+/70             0           0     0     644     268336    `
+/84             0           0     0     644     569400    `
+/97             0           0     0     644     5152      `
+/130            0           0     0     644     5080      `
+/183            0           0     0     644     287080    `
+/208            0           0     0     644     38808     `
+/248            0           0     0     644     161336    `
+/279            0           0     0     644     202728    `

@@ -1,0 +1,1 @@
+cmd_drivers/soc/oplus/system/oplus_pmic_monitor/built-in.a :=  rm -f drivers/soc/oplus/system/oplus_pmic_monitor/built-in.a; llvm-ar rcSTPD drivers/soc/oplus/system/oplus_pmic_monitor/built-in.a drivers/soc/oplus/system/oplus_pmic_monitor/oplus_pmic_info_smem.o drivers/soc/oplus/system/oplus_pmic_monitor/main.o

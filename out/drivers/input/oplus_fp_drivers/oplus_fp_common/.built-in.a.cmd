@@ -1,0 +1,1 @@
+cmd_drivers/input/oplus_fp_drivers/oplus_fp_common/built-in.a :=  rm -f drivers/input/oplus_fp_drivers/oplus_fp_common/built-in.a; llvm-ar rcSTPD drivers/input/oplus_fp_drivers/oplus_fp_common/built-in.a drivers/input/oplus_fp_drivers/oplus_fp_common/oplus_fp_common.o drivers/input/oplus_fp_drivers/oplus_fp_common/fingerprint_event.o

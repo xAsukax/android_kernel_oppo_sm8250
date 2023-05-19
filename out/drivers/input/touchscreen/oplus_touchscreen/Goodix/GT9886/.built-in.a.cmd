@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/oplus_touchscreen/Goodix/GT9886/built-in.a :=  rm -f drivers/input/touchscreen/oplus_touchscreen/Goodix/GT9886/built-in.a; llvm-ar rcSTPD drivers/input/touchscreen/oplus_touchscreen/Goodix/GT9886/built-in.a drivers/input/touchscreen/oplus_touchscreen/Goodix/GT9886/goodix_drivers_gt9886.o

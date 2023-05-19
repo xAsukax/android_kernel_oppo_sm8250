@@ -1,0 +1,85 @@
+!<thin>
+//                                              1566      `
+of_touchscreen.o/
+oplus_touchscreen/util_interface/touch_interfaces.o/
+oplus_touchscreen/touchpanel_common_driver.o/
+oplus_touchscreen/touchpanel_healthinfo.o/
+oplus_touchscreen/touchpanel_exception.o/
+oplus_touchscreen/Synaptics/S3706/synaptics_drivers_s3706.o/
+oplus_touchscreen/Synaptics/Syna_tcm_oncell/synaptics_tcm_oncell.o/
+oplus_touchscreen/Synaptics/Syna_tcm_oncell/synaptics_tcm_device.o/
+oplus_touchscreen/Synaptics/synaptics_touch_panel_remote.o/
+oplus_touchscreen/Synaptics/synaptics_common.o/
+oplus_touchscreen/Focal/focal_common.o/
+oplus_touchscreen/Goodix/GT9886/goodix_drivers_gt9886.o/
+oplus_touchscreen/Goodix/goodix_common.o/
+oplus_touchscreen/Goodix/goodix_tool.o/
+oplus_touchscreen/Goodix/gtx8_tools.o/
+oplus_touchscreen/Novatek/novatek_common.o/
+oplus_touchscreen/Novatek/NT36523_noflash/nvt_drivers_nt36523_noflash.o/
+oplus_touchscreen/Samsung/S6SY771/sec_drivers_s6sy771.o/
+oplus_touchscreen/Samsung/sec_common.o/
+oplus_touchscreen/Samsung/S6SY791/sec_drivers_s6sy791.o/
+oplus_touchscreen/Samsung/S6SY792/sec_drivers_s6sy792.o/
+touch.o/
+st/fts.o/
+st/fts_gui.o/
+st/fts_driver_test.o/
+st/fts_aoi_event.o/
+st/fts_lib/ftsCompensation.o/
+st/fts_lib/ftsCrossCompile.o/
+st/fts_lib/ftsError.o/
+st/fts_lib/ftsFrame.o/
+st/fts_lib/ftsIO.o/
+st/fts_lib/ftsTest.o/
+st/fts_lib/ftsTime.o/
+st/fts_lib/ftsTool.o/
+st/fts_lib/ftsFlash.o/
+st/fts_lib/ftsGesture.o/
+synaptics_dsx/synaptics_dsx_i2c.o/
+synaptics_dsx/synaptics_dsx_core.o/
+synaptics_dsx/synaptics_dsx_rmi_dev.o/
+synaptics_dsx/synaptics_dsx_fw_update.o/
+synaptics_dsx/synaptics_dsx_test_reporting.o/
+
+/0              0           0     0     644     153704    `
+/18             0           0     0     644     273672    `
+/71             0           0     0     644     1075624   `
+/117            0           0     0     644     341688    `
+/160            0           0     0     644     145488    `
+/202            0           0     0     644     726632    `
+/263            0           0     0     644     762880    `
+/331            0           0     0     644     318712    `
+/399            0           0     0     644     229440    `
+/459            0           0     0     644     329152    `
+/507            0           0     0     644     352576    `
+/547            0           0     0     644     735944    `
+/604            0           0     0     644     319552    `
+/646            0           0     0     644     299608    `
+/686            0           0     0     644     291288    `
+/725            0           0     0     644     344016    `
+/769            0           0     0     644     765800    `
+/842            0           0     0     644     546104    `
+/899            0           0     0     644     325952    `
+/939            0           0     0     644     545464    `
+/996            0           0     0     644     549520    `
+/1053           0           0     0     644     703752    `
+/1062           0           0     0     644     475992    `
+/1072           0           0     0     644     1000      `
+/1086           0           0     0     644     263080    `
+/1108           0           0     0     644     87696     `
+/1128           0           0     0     644     53928     `
+/1158           0           0     0     644     5504      `
+/1188           0           0     0     644     220920    `
+/1211           0           0     0     644     37648     `
+/1234           0           0     0     644     243696    `
+/1254           0           0     0     644     501488    `
+/1276           0           0     0     644     11424     `
+/1298           0           0     0     644     115712    `
+/1320           0           0     0     644     254984    `
+/1343           0           0     0     644     236840    `
+/1368           0           0     0     644     227824    `
+/1403           0           0     0     644     537480    `
+/1439           0           0     0     644     266464    `
+/1478           0           0     0     644     387176    `
+/1519           0           0     0     644     453016    `

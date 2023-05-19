@@ -1,0 +1,16 @@
+!<thin>
+//                                              222       `
+oplus_fp_common/oplus_fp_common.o/
+oplus_fp_common/fingerprint_event.o/
+goodix_optical_fp/gf_spi.o/
+goodix_optical_fp/gf_platform.o/
+goodix_optical_fp/gf_netlink.o/
+anc_driver/jiiov_platform.o/
+anc_driver/jiiov_netlink.o/
+/0              0           0     0     644     209720    `
+/35             0           0     0     644     122712    `
+/72             0           0     0     644     257728    `
+/100            0           0     0     644     180584    `
+/133            0           0     0     644     320488    `
+/165            0           0     0     644     387080    `
+/194            0           0     0     644     316664    `

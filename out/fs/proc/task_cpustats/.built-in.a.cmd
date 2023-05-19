@@ -1,0 +1,1 @@
+cmd_fs/proc/task_cpustats/built-in.a :=  rm -f fs/proc/task_cpustats/built-in.a; llvm-ar rcSTPD fs/proc/task_cpustats/built-in.a fs/proc/task_cpustats/task_cpustats.o fs/proc/task_cpustats/task_sched_info.o

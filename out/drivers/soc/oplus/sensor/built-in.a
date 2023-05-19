@@ -1,0 +1,13 @@
+!<thin>
+//                                              154       `
+oplus_sensor_devinfo.o/
+oplus_press_cali_info.o/
+oplus_pad_als_info.o/
+oplus_ssc_interact/oplus_ssc_interact.o/
+oplus_sensor_feedback/sensor_feedback.o/
+
+/0              0           0     0     644     392464    `
+/24             0           0     0     644     199312    `
+/49             0           0     0     644     237816    `
+/71             0           0     0     644     185704    `
+/112            0           0     0     644     413344    `

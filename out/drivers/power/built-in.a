@@ -1,0 +1,129 @@
+!<thin>
+//                                              2032      `
+reset/msm-poweroff.o/
+reset/xgene-reboot.o/
+reset/syscon-reboot.o/
+supply/power_supply_core.o/
+supply/power_supply_sysfs.o/
+supply/power_supply_leds.o/
+supply/qcom/step-chg-jeita.o/
+supply/qcom/battery.o/
+supply/qcom/pmic-voter.o/
+supply/qcom/storm-watch.o/
+supply/qcom/schgm-flash.o/
+supply/qcom/qpnp-fg-gen4.o/
+supply/qcom/fg-memif.o/
+supply/qcom/fg-util.o/
+supply/qcom/fg-alg.o/
+oplus/v1/wireless_ic/oplus_p9418.o/
+oplus/v1/wireless_ic/oplus_p922x.o/
+oplus/v1/wireless_ic/oplus_nu1619.o/
+oplus/v1/wireless_ic/oplus_chargepump.o/
+oplus/v1/charger_ic/oplus_charge_pump.o/
+oplus/v1/charger_ic/oplus_da9313.o/
+oplus/v1/charger_ic/oplus_battery_msm8250.o/
+oplus/v1/charger_ic/oplus_mp2650.o/
+oplus/v1/charger_ic/oplus_usbtemp.o/
+oplus/v1/charger_ic/oplus_short_ic.o/
+oplus/v1/gauge_ic/oplus_bq27541.o/
+oplus/v1/vooc_ic/oplus_n76e.o/
+oplus/v1/vooc_ic/oplus_vooc_fw.o/
+oplus/v1/vooc_ic/oplus_stm8s.o/
+oplus/v1/vooc_ic/oplus_rk826.o/
+oplus/v1/vooc_ic/oplus_op10.o/
+oplus/v1/vooc_ic/oplus_rt5125.o/
+oplus/v1/adapter_ic/oplus_stm.o/
+oplus/v1/chargepump_ic/oplus_sc8571_master.o/
+oplus/v1/chargepump_ic/oplus_sc8571_slave.o/
+oplus/v1/chargepump_ic/oplus_bq25980_master.o/
+oplus/v1/chargepump_ic/oplus_bq25980_slave.o/
+oplus/v1/chargepump_ic/oplus_nu2205_master.o/
+oplus/v1/chargepump_ic/oplus_nu2205_slave.o/
+oplus/v1/chargepump_ic/oplus_pps_cp.o/
+oplus/v1/oplus_pps_ops_manager.o/
+oplus/v1/voocphy/oplus_sc8547.o/
+oplus/v1/voocphy/oplus_sc8547_slave.o/
+oplus/v1/voocphy/oplus_voocphy.o/
+oplus/v1/voocphy/oplus_sc8517.o/
+oplus/v1/voocphy/oplus_sy6529.o/
+oplus/v1/voocphy/oplus_hl7138.o/
+oplus/v1/oplus_charger.o/
+oplus/v1/oplus_gauge.o/
+oplus/v1/oplus_vooc.o/
+oplus/v1/oplus_adapter.o/
+oplus/v1/oplus_chg_track.o/
+oplus/v1/oplus_wireless.o/
+oplus/v1/oplus_short.o/
+oplus/v1/oplus_debug_info.o/
+oplus/v1/oplus_chg_ops_manager.o/
+oplus/v1/oplus_pps.o/
+oplus/v1/oplus_configfs.o/
+oplus/v1/charger_ic/s2asl01_switching.o/
+oplus/v1/charger_ic/oplus_switching.o/
+oplus/v1/oplus_chg_voter.o/
+oplus/v1/oplus_chg_core.o/
+oplus/v1/oplus_chg_comm.o/
+
+/0              0           0     0     644     220896    `
+/22             0           0     0     644     89720     `
+/44             0           0     0     644     90896     `
+/67             0           0     0     644     231576    `
+/95             0           0     0     644     144000    `
+/124            0           0     0     644     97088     `
+/152            0           0     0     644     157256    `
+/182            0           0     0     644     279248    `
+/205            0           0     0     644     133768    `
+/231            0           0     0     644     9440      `
+/258            0           0     0     644     211752    `
+/285            0           0     0     644     768048    `
+/313            0           0     0     644     241488    `
+/337            0           0     0     644     267856    `
+/360            0           0     0     644     180160    `
+/382            0           0     0     644     516512    `
+/418            0           0     0     644     817824    `
+/454            0           0     0     644     1557336   `
+/491            0           0     0     644     252504    `
+/532            0           0     0     644     302624    `
+/573            0           0     0     644     295136    `
+/609            0           0     0     644     1641904   `
+/654            0           0     0     644     574208    `
+/690            0           0     0     644     421048    `
+/727            0           0     0     644     354432    `
+/765            0           0     0     644     662968    `
+/800            0           0     0     644     332728    `
+/831            0           0     0     644     448784    `
+/865            0           0     0     644     492456    `
+/897            0           0     0     644     518072    `
+/929            0           0     0     644     382464    `
+/960            0           0     0     644     494376    `
+/993            0           0     0     644     243864    `
+/1026           0           0     0     644     426336    `
+/1072           0           0     0     644     315936    `
+/1117           0           0     0     644     344008    `
+/1164           0           0     0     644     321040    `
+/1210           0           0     0     644     312536    `
+/1256           0           0     0     644     300928    `
+/1301           0           0     0     644     40624     `
+/1340           0           0     0     644     193432    `
+/1374           0           0     0     644     362928    `
+/1407           0           0     0     644     278672    `
+/1446           0           0     0     644     910944    `
+/1480           0           0     0     644     317984    `
+/1513           0           0     0     644     409432    `
+/1546           0           0     0     644     432048    `
+/1579           0           0     0     644     1396904   `
+/1605           0           0     0     644     367704    `
+/1629           0           0     0     644     449016    `
+/1652           0           0     0     644     191416    `
+/1678           0           0     0     644     725264    `
+/1706           0           0     0     644     359008    `
+/1733           0           0     0     644     399280    `
+/1757           0           0     0     644     689264    `
+/1786           0           0     0     644     312376    `
+/1820           0           0     0     644     576624    `
+/1842           0           0     0     644     518600    `
+/1869           0           0     0     644     385760    `
+/1910           0           0     0     644     385480    `
+/1949           0           0     0     644     134776    `
+/1977           0           0     0     644     166992    `
+/2004           0           0     0     644     484096    `

@@ -1,0 +1,17 @@
+!<thin>
+//                                              154       `
+oplus_sc8571_master.o/
+oplus_sc8571_slave.o/
+oplus_bq25980_master.o/
+oplus_bq25980_slave.o/
+oplus_nu2205_master.o/
+oplus_nu2205_slave.o/
+oplus_pps_cp.o/
+
+/0              0           0     0     644     426336    `
+/23             0           0     0     644     315936    `
+/45             0           0     0     644     344008    `
+/69             0           0     0     644     321040    `
+/92             0           0     0     644     312536    `
+/115            0           0     0     644     300928    `
+/137            0           0     0     644     40624     `

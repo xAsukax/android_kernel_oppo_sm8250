@@ -1,0 +1,1 @@
+cmd_drivers/soc/oplus/system/qcom_minidump/built-in.a :=  rm -f drivers/soc/oplus/system/qcom_minidump/built-in.a; llvm-ar rcSTPD drivers/soc/oplus/system/qcom_minidump/built-in.a drivers/soc/oplus/system/qcom_minidump/qcom_minidump_enhance.o drivers/soc/oplus/system/qcom_minidump/get_regs.o

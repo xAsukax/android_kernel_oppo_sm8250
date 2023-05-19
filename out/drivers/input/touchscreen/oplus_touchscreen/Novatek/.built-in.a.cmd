@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/oplus_touchscreen/Novatek/built-in.a :=  rm -f drivers/input/touchscreen/oplus_touchscreen/Novatek/built-in.a; llvm-ar rcSTPD drivers/input/touchscreen/oplus_touchscreen/Novatek/built-in.a drivers/input/touchscreen/oplus_touchscreen/Novatek/novatek_common.o drivers/input/touchscreen/oplus_touchscreen/Novatek/NT36523_noflash/built-in.a

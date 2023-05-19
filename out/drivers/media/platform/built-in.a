@@ -1,0 +1,51 @@
+!<thin>
+//                                              570       `
+msm/cvp/msm_v4l2_cvp.o/
+msm/cvp/msm_v4l2_private.o/
+msm/cvp/msm_cvp_platform.o/
+msm/cvp/msm_cvp_common.o/
+msm/cvp/msm_cvp_core.o/
+msm/cvp/msm_cvp.o/
+msm/cvp/msm_smem.o/
+msm/cvp/msm_cvp_debug.o/
+msm/cvp/msm_cvp_res_parse.o/
+msm/cvp/cvp_hfi.o/
+msm/cvp/hfi_response_handler.o/
+msm/cvp/hfi_packetization.o/
+msm/cvp/cvp_core_hfi.o/
+msm/cvp/msm_cvp_clocks.o/
+msm/cvp/msm_cvp_dsp.o/
+msm/npu/npu_dbg.o/
+msm/npu/npu_dev.o/
+msm/npu/npu_debugfs.o/
+msm/npu/npu_host_ipc.o/
+msm/npu/npu_hw_access.o/
+msm/npu/npu_mgr.o/
+msm/synx/synx.o/
+msm/synx/synx_util.o/
+msm/synx/synx_debugfs.o/
+
+/0              0           0     0     644     235256    `
+/24             0           0     0     644     569616    `
+/52             0           0     0     644     146256    `
+/80             0           0     0     644     354792    `
+/106            0           0     0     644     210032    `
+/130            0           0     0     644     349016    `
+/149            0           0     0     644     240552    `
+/169            0           0     0     644     347776    `
+/194            0           0     0     644     255504    `
+/223            0           0     0     644     576080    `
+/242            0           0     0     644     212472    `
+/274            0           0     0     644     187664    `
+/303            0           0     0     644     158520    `
+/327            0           0     0     644     150072    `
+/353            0           0     0     644     242112    `
+/376            0           0     0     644     168392    `
+/395            0           0     0     644     415872    `
+/414            0           0     0     644     160368    `
+/437            0           0     0     644     177216    `
+/461            0           0     0     644     206688    `
+/486            0           0     0     644     416584    `
+/505            0           0     0     644     326720    `
+/522            0           0     0     644     158976    `
+/544            0           0     0     644     138552    `

@@ -1,0 +1,99 @@
+!<thin>
+//                                              1362      `
+v1/wireless_ic/oplus_p9418.o/
+v1/wireless_ic/oplus_p922x.o/
+v1/wireless_ic/oplus_nu1619.o/
+v1/wireless_ic/oplus_chargepump.o/
+v1/charger_ic/oplus_charge_pump.o/
+v1/charger_ic/oplus_da9313.o/
+v1/charger_ic/oplus_battery_msm8250.o/
+v1/charger_ic/oplus_mp2650.o/
+v1/charger_ic/oplus_usbtemp.o/
+v1/charger_ic/oplus_short_ic.o/
+v1/gauge_ic/oplus_bq27541.o/
+v1/vooc_ic/oplus_n76e.o/
+v1/vooc_ic/oplus_vooc_fw.o/
+v1/vooc_ic/oplus_stm8s.o/
+v1/vooc_ic/oplus_rk826.o/
+v1/vooc_ic/oplus_op10.o/
+v1/vooc_ic/oplus_rt5125.o/
+v1/adapter_ic/oplus_stm.o/
+v1/chargepump_ic/oplus_sc8571_master.o/
+v1/chargepump_ic/oplus_sc8571_slave.o/
+v1/chargepump_ic/oplus_bq25980_master.o/
+v1/chargepump_ic/oplus_bq25980_slave.o/
+v1/chargepump_ic/oplus_nu2205_master.o/
+v1/chargepump_ic/oplus_nu2205_slave.o/
+v1/chargepump_ic/oplus_pps_cp.o/
+v1/oplus_pps_ops_manager.o/
+v1/voocphy/oplus_sc8547.o/
+v1/voocphy/oplus_sc8547_slave.o/
+v1/voocphy/oplus_voocphy.o/
+v1/voocphy/oplus_sc8517.o/
+v1/voocphy/oplus_sy6529.o/
+v1/voocphy/oplus_hl7138.o/
+v1/oplus_charger.o/
+v1/oplus_gauge.o/
+v1/oplus_vooc.o/
+v1/oplus_adapter.o/
+v1/oplus_chg_track.o/
+v1/oplus_wireless.o/
+v1/oplus_short.o/
+v1/oplus_debug_info.o/
+v1/oplus_chg_ops_manager.o/
+v1/oplus_pps.o/
+v1/oplus_configfs.o/
+v1/charger_ic/s2asl01_switching.o/
+v1/charger_ic/oplus_switching.o/
+v1/oplus_chg_voter.o/
+v1/oplus_chg_core.o/
+v1/oplus_chg_comm.o/
+
+/0              0           0     0     644     516512    `
+/30             0           0     0     644     817824    `
+/60             0           0     0     644     1557336   `
+/91             0           0     0     644     252504    `
+/126            0           0     0     644     302624    `
+/161            0           0     0     644     295136    `
+/191            0           0     0     644     1641904   `
+/230            0           0     0     644     574208    `
+/260            0           0     0     644     421048    `
+/291            0           0     0     644     354432    `
+/323            0           0     0     644     662968    `
+/352            0           0     0     644     332728    `
+/377            0           0     0     644     448784    `
+/405            0           0     0     644     492456    `
+/431            0           0     0     644     518072    `
+/457            0           0     0     644     382464    `
+/482            0           0     0     644     494376    `
+/509            0           0     0     644     243864    `
+/536            0           0     0     644     426336    `
+/576            0           0     0     644     315936    `
+/615            0           0     0     644     344008    `
+/656            0           0     0     644     321040    `
+/696            0           0     0     644     312536    `
+/736            0           0     0     644     300928    `
+/775            0           0     0     644     40624     `
+/808            0           0     0     644     193432    `
+/836            0           0     0     644     362928    `
+/863            0           0     0     644     278672    `
+/896            0           0     0     644     910944    `
+/924            0           0     0     644     317984    `
+/951            0           0     0     644     409432    `
+/978            0           0     0     644     432048    `
+/1005           0           0     0     644     1396904   `
+/1025           0           0     0     644     367704    `
+/1043           0           0     0     644     449016    `
+/1060           0           0     0     644     191416    `
+/1080           0           0     0     644     725264    `
+/1102           0           0     0     644     359008    `
+/1123           0           0     0     644     399280    `
+/1141           0           0     0     644     689264    `
+/1164           0           0     0     644     312376    `
+/1192           0           0     0     644     576624    `
+/1208           0           0     0     644     518600    `
+/1229           0           0     0     644     385760    `
+/1264           0           0     0     644     385480    `
+/1297           0           0     0     644     134776    `
+/1319           0           0     0     644     166992    `
+/1340           0           0     0     644     484096    `

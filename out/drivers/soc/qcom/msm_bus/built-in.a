@@ -1,0 +1,22 @@
+!<thin>
+//                                              196       `
+msm_bus_core.o/
+msm_bus_client_api.o/
+msm_bus_of.o/
+msm_bus_fabric_rpmh.o/
+msm_bus_arb_rpmh.o/
+msm_bus_rules.o/
+msm_bus_bimc_rpmh.o/
+msm_bus_noc_rpmh.o/
+msm_bus_proxy_client.o/
+msm_bus_of_rpmh.o/
+/0              0           0     0     644     144864    `
+/16             0           0     0     644     147912    `
+/38             0           0     0     644     194408    `
+/52             0           0     0     644     287032    `
+/75             0           0     0     644     263424    `
+/95             0           0     0     644     382728    `
+/112            0           0     0     644     152032    `
+/133            0           0     0     644     153400    `
+/153            0           0     0     644     125280    `
+/177            0           0     0     644     198408    `

@@ -1,0 +1,1 @@
+cmd_drivers/soc/oplus/system/project_info/built-in.a :=  rm -f drivers/soc/oplus/system/project_info/built-in.a; llvm-ar rcSTPD drivers/soc/oplus/system/project_info/built-in.a drivers/soc/oplus/system/project_info/boot_mode.o

@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/oplus_touchscreen/Focal/built-in.a :=  rm -f drivers/input/touchscreen/oplus_touchscreen/Focal/built-in.a; llvm-ar rcSTPD drivers/input/touchscreen/oplus_touchscreen/Focal/built-in.a drivers/input/touchscreen/oplus_touchscreen/Focal/focal_common.o

@@ -1,0 +1,3 @@
+kernel/drivers/misc/aw8697_haptic/aw8697.ko
+kernel/drivers/misc/aw8697_haptic/haptic.ko
+kernel/drivers/misc/aw8697_haptic/haptic_feedback.ko

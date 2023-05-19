@@ -1,0 +1,16 @@
+!<thin>
+//                                              170       `
+device_info/device_info.o/
+lowmem_dbg/lowmem_dbg.o/
+midas/midas_dev.o/
+midas/midas_ioctl.o/
+midas/binder_stats_dev.o/
+svelte/svelte_logger.o/
+thermal/horae_shell_temp.o/
+/0              0           0     0     644     252776    `
+/27             0           0     0     644     271944    `
+/52             0           0     0     644     167320    `
+/71             0           0     0     644     128360    `
+/92             0           0     0     644     243832    `
+/118            0           0     0     644     214072    `
+/142            0           0     0     644     169368    `

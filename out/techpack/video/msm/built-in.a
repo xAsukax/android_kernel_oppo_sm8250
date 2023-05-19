@@ -1,0 +1,51 @@
+!<thin>
+//                                              550       `
+vidc/msm_v4l2_vidc.o/
+vidc/msm_v4l2_private.o/
+vidc/msm_vidc_platform.o/
+vidc/msm_vidc_common.o/
+vidc/msm_vidc.o/
+vidc/msm_vdec.o/
+vidc/msm_venc.o/
+vidc/msm_cvp_internal.o/
+vidc/msm_smem.o/
+vidc/msm_vidc_debug.o/
+vidc/msm_vidc_res_parse.o/
+vidc/hfi_common.o/
+vidc/hfi_ar50.o/
+vidc/hfi_ar50_lt.o/
+vidc/hfi_iris1.o/
+vidc/hfi_iris2.o/
+vidc/hfi_response_handler.o/
+vidc/hfi_packetization.o/
+vidc/vidc_hfi.o/
+vidc/msm_vidc_clocks.o/
+vidc/msm_vidc_bus_ar50lite.o/
+vidc/msm_vidc_bus_iris1.o/
+vidc/msm_vidc_bus_iris2.o/
+vidc/msm_vidc_buffer_calculations.o/
+
+/0              0           0     0     644     500360    `
+/22             0           0     0     644     519032    `
+/47             0           0     0     644     257184    `
+/73             0           0     0     644     2819432   `
+/97             0           0     0     644     996352    `
+/114            0           0     0     644     616728    `
+/131            0           0     0     644     2367512   `
+/148            0           0     0     644     456016    `
+/173            0           0     0     644     457464    `
+/190            0           0     0     644     538736    `
+/213            0           0     0     644     710256    `
+/240            0           0     0     644     1956312   `
+/259            0           0     0     644     185488    `
+/276            0           0     0     644     241824    `
+/296            0           0     0     644     187576    `
+/314            0           0     0     644     323624    `
+/332            0           0     0     644     562448    `
+/361            0           0     0     644     270128    `
+/387            0           0     0     644     189432    `
+/404            0           0     0     644     722016    `
+/428            0           0     0     644     167568    `
+/458            0           0     0     644     214040    `
+/485            0           0     0     644     193520    `
+/512            0           0     0     644     538664    `

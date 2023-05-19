@@ -1,0 +1,14 @@
+kernel/drivers/input/touchscreen/st/fts.ko
+kernel/drivers/input/touchscreen/st/fts_gui.ko
+kernel/drivers/input/touchscreen/st/fts_driver_test.ko
+kernel/drivers/input/touchscreen/st/fts_aoi_event.ko
+kernel/drivers/input/touchscreen/st/fts_lib/ftsCompensation.ko
+kernel/drivers/input/touchscreen/st/fts_lib/ftsCrossCompile.ko
+kernel/drivers/input/touchscreen/st/fts_lib/ftsError.ko
+kernel/drivers/input/touchscreen/st/fts_lib/ftsFrame.ko
+kernel/drivers/input/touchscreen/st/fts_lib/ftsIO.ko
+kernel/drivers/input/touchscreen/st/fts_lib/ftsTest.ko
+kernel/drivers/input/touchscreen/st/fts_lib/ftsTime.ko
+kernel/drivers/input/touchscreen/st/fts_lib/ftsTool.ko
+kernel/drivers/input/touchscreen/st/fts_lib/ftsFlash.ko
+kernel/drivers/input/touchscreen/st/fts_lib/ftsGesture.ko

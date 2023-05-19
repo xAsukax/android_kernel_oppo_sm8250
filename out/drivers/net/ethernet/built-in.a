@@ -1,0 +1,40 @@
+!<thin>
+//                                              594       `
+aquantia/atlantic-fwd/atl_fw.o/
+aquantia/atlantic-fwd/atl_hw.o/
+aquantia/atlantic-fwd/atl_main.o/
+aquantia/atlantic-fwd/atl_ring.o/
+aquantia/atlantic-fwd/atl_ethtool.o/
+aquantia/atlantic-fwd/atl_trace.o/
+aquantia/atlantic-fwd/atl_fwd.o/
+aquantia/atlantic-fwd/atl_compat.o/
+aquantia/atlantic-fwd/atl_hwmon.o/
+cavium/common/cavium_ptp.o/
+marvell/sky2.o/
+qualcomm/rmnet/rmnet_config.o/
+qualcomm/rmnet/rmnet_vnd.o/
+qualcomm/rmnet/rmnet_handlers.o/
+qualcomm/rmnet/rmnet_map_data.o/
+qualcomm/rmnet/rmnet_map_command.o/
+qualcomm/rmnet/rmnet_descriptor.o/
+qualcomm/rmnet/rmnet_genl.o/
+smsc/smsc911x.o/
+/0              0           0     0     644     312728    `
+/32             0           0     0     644     662288    `
+/64             0           0     0     644     343008    `
+/98             0           0     0     644     585328    `
+/132            0           0     0     644     414352    `
+/169            0           0     0     644     259368    `
+/204            0           0     0     644     376160    `
+/237            0           0     0     644     1008      `
+/273            0           0     0     644     262320    `
+/308            0           0     0     644     180544    `
+/336            0           0     0     644     1201568   `
+/352            0           0     0     644     408680    `
+/383            0           0     0     644     290624    `
+/411            0           0     0     644     511480    `
+/444            0           0     0     644     458104    `
+/477            0           0     0     644     285792    `
+/513            0           0     0     644     449848    `
+/548            0           0     0     644     337056    `
+/577            0           0     0     644     547784    `

@@ -1,0 +1,1 @@
+cmd_drivers/soc/oplus/system/oplus_saupwk/built-in.a :=  rm -f drivers/soc/oplus/system/oplus_saupwk/built-in.a; llvm-ar rcSTPD drivers/soc/oplus/system/oplus_saupwk/built-in.a drivers/soc/oplus/system/oplus_saupwk/oplus_saupwk.o

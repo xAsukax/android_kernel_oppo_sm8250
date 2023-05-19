@@ -1,0 +1,74 @@
+!<thin>
+//                                              1024      `
+platform.o/
+feedback/kernel_fb.o/
+uboot_log/uboot_log.o/
+shutdown_detect/shutdown_detect.o/
+oplus_project/qcom/oplus_project.o/
+qcom_minidump/qcom_minidump_enhance.o/
+qcom_minidump/get_regs.o/
+hung_task_enhance/hung_task_enhance.o/
+oplus_phoenix/op_bootprof.o/
+oplus_phoenix/phoenix_base.o/
+oplus_phoenix/phoenix_dump.o/
+oplus_phoenix/phoenix_watchdog.o/
+oplus_phoenix/oplus_kmsg_wb.o/
+oplus_phoenix/phoenix_reboot_speed.o/
+oplus_pmic_monitor/oplus_pmic_info_smem.o/
+oplus_pmic_monitor/main.o/
+oplus_saupwk/oplus_saupwk.o/
+dump_device_info/dump_device_info.o/
+mdmrst/oplus_mdmrst.o/
+cmdline_parser/saupwk.o/
+cmdline_parser/shutdown_speed.o/
+project_info/boot_mode.o/
+qcom_pmicwd/qcom_pmicwd.o/
+qcom_pmicwd/qcom_pwkpwr.o/
+oplus_mm_fb/oplus_mm_kevent.o/
+oplus_mm_fb/oplus_mm_kevent_fb.o/
+acm/acm.o/
+theia/black_screen_check.o/
+theia/bright_screen_check.o/
+theia/theia_kevent_kernel.o/
+theia/powerkey_monitor.o/
+selinux/proc.o/
+mdmfeature/oplus_mdmfeature.o/
+olc/olc_main.o/
+olc/olc_debug.o/
+oplus_fdleak/oplus_fdleak_check.o/
+/0              0           0     0     644     4200      `
+/12             0           0     0     644     370264    `
+/34             0           0     0     644     158216    `
+/57             0           0     0     644     270440    `
+/92             0           0     0     644     250656    `
+/128            0           0     0     644     22736     `
+/167            0           0     0     644     2280      `
+/193            0           0     0     644     73992     `
+/232            0           0     0     644     166448    `
+/261            0           0     0     644     41440     `
+/291            0           0     0     644     212864    `
+/321            0           0     0     644     207752    `
+/355            0           0     0     644     214016    `
+/386            0           0     0     644     263240    `
+/424            0           0     0     644     5584      `
+/467            0           0     0     644     113744    `
+/494            0           0     0     644     124928    `
+/523            0           0     0     644     144136    `
+/560            0           0     0     644     147608    `
+/583            0           0     0     644     109520    `
+/608            0           0     0     644     109704    `
+/641            0           0     0     644     130080    `
+/667            0           0     0     644     239624    `
+/694            0           0     0     644     194960    `
+/721            0           0     0     644     346896    `
+/752            0           0     0     644     366328    `
+/786            0           0     0     644     351632    `
+/797            0           0     0     644     180352    `
+/825            0           0     0     644     180832    `
+/854            0           0     0     644     324048    `
+/883            0           0     0     644     199704    `
+/909            0           0     0     644     125416    `
+/925            0           0     0     644     151176    `
+/956            0           0     0     644     230296    `
+/972            0           0     0     644     138072    `
+/989            0           0     0     644     143888    `

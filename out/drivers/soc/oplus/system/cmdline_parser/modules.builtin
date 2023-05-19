@@ -1,0 +1,2 @@
+kernel/drivers/soc/oplus/system/cmdline_parser/saupwk.ko
+kernel/drivers/soc/oplus/system/cmdline_parser/shutdown_speed.ko

@@ -1,0 +1,1 @@
+cmd_net/oplus_connectivity_routerboost/oplus_connectivity_routerboost.o := ld.lld -EL  -maarch64elf   -r -o net/oplus_connectivity_routerboost/oplus_connectivity_routerboost.o net/oplus_connectivity_routerboost/oplus_routerboost.o net/oplus_connectivity_routerboost/oplus_routerboost_game_monitor.o 

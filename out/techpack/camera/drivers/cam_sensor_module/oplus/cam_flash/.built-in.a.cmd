@@ -1,0 +1,1 @@
+cmd_techpack/camera/drivers/cam_sensor_module/oplus/cam_flash/built-in.a :=  rm -f techpack/camera/drivers/cam_sensor_module/oplus/cam_flash/built-in.a; llvm-ar rcSTPD techpack/camera/drivers/cam_sensor_module/oplus/cam_flash/built-in.a techpack/camera/drivers/cam_sensor_module/oplus/cam_flash/oplus_cam_flash_dev.o

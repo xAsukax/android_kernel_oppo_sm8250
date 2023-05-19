@@ -1,0 +1,52 @@
+!<thin>
+//                                              598       `
+tri_state_key/ist_hall_ic/hall_ist8801_up.o/
+tri_state_key/ist_hall_ic/hall_ist8801_down.o/
+tri_state_key/hall_ic/hall_mxm1120_up.o/
+tri_state_key/hall_ic/hall_mxm1120_down.o/
+tri_state_key/oplus_tri_key.o/
+hdcp_qseecom.o/
+msm_hdcp.o/
+qseecom.o/
+uid_sys_stats.o/
+okl4-virq.o/
+okl4-panic.o/
+okl4-link-shbuf.o/
+max31760.o/
+qxr-stdalonevwr.o/
+cs_press/cs_press_f61.o/
+colorctrl/colorctrl.o/
+colorctrl_v2/colorctrl.o/
+aw8697_haptic/aw8697.o/
+aw8697_haptic/aw8692x.o/
+aw8697_haptic/haptic_hv.o/
+aw8697_haptic/haptic_feedback.o/
+oplus_rf_cable_monitor.o/
+op_ant_detect.o/
+sim_detect.o/
+oem_qmi_client.o/
+/0              0           0     0     644     284360    `
+/45             0           0     0     644     284440    `
+/92             0           0     0     644     262040    `
+/133            0           0     0     644     262104    `
+/176            0           0     0     644     310456    `
+/207            0           0     0     644     107728    `
+/223            0           0     0     644     156240    `
+/235            0           0     0     644     1669408   `
+/246            0           0     0     644     308792    `
+/263            0           0     0     644     182208    `
+/276            0           0     0     644     8152      `
+/290            0           0     0     644     223640    `
+/309            0           0     0     644     184080    `
+/321            0           0     0     644     157704    `
+/340            0           0     0     644     475936    `
+/365            0           0     0     644     341208    `
+/388            0           0     0     644     400880    `
+/414            0           0     0     644     921776    `
+/438            0           0     0     644     328480    `
+/463            0           0     0     644     690176    `
+/490            0           0     0     644     386704    `
+/523            0           0     0     644     205184    `
+/549            0           0     0     644     196680    `
+/566            0           0     0     644     160616    `
+/580            0           0     0     644     356304    `

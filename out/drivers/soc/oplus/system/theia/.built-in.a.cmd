@@ -1,0 +1,1 @@
+cmd_drivers/soc/oplus/system/theia/built-in.a :=  rm -f drivers/soc/oplus/system/theia/built-in.a; llvm-ar rcSTPD drivers/soc/oplus/system/theia/built-in.a drivers/soc/oplus/system/theia/black_screen_check.o drivers/soc/oplus/system/theia/bright_screen_check.o drivers/soc/oplus/system/theia/theia_kevent_kernel.o drivers/soc/oplus/system/theia/powerkey_monitor.o

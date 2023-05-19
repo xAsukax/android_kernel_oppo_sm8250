@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/oplus_touchscreen/Synaptics/S3706/built-in.a :=  rm -f drivers/input/touchscreen/oplus_touchscreen/Synaptics/S3706/built-in.a; llvm-ar rcSTPD drivers/input/touchscreen/oplus_touchscreen/Synaptics/S3706/built-in.a drivers/input/touchscreen/oplus_touchscreen/Synaptics/S3706/synaptics_drivers_s3706.o

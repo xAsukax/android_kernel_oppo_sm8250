@@ -1,0 +1,39 @@
+!<thin>
+//                                              518       `
+inv_ch101/ch101_core.o/
+inv_ch101/ch101_sysfs.o/
+inv_ch101/src/init_driver.o/
+inv_ch101/src/chbsp_dummy.o/
+inv_ch101/src/chbsp_init.o/
+inv_ch101/src/chirp_hal.o/
+inv_ch101/src/i2c_hal.o/
+inv_ch101/src/ch101_gpr.o/
+inv_ch101/src/ch101_gpr_fw.o/
+inv_ch101/src/ch101_gpr_open.o/
+inv_ch101/src/ch101_gpr_open_fw.o/
+inv_ch101/src/ch101_gpr_sr_open.o/
+inv_ch101/src/ch101_gpr_sr_open_fw.o/
+inv_ch101/src/ch_api.o/
+inv_ch101/src/ch_common.o/
+inv_ch101/src/ch_driver.o/
+inv_ch101/src/ch201_gprmt_fw.o/
+inv_ch101/ch101_i2c.o/
+
+/0              0           0     0     644     248608    `
+/24             0           0     0     644     96088     `
+/49             0           0     0     644     139248    `
+/78             0           0     0     644     12192     `
+/107            0           0     0     644     53144     `
+/135            0           0     0     644     26784     `
+/162            0           0     0     644     111152    `
+/187            0           0     0     644     14368     `
+/214            0           0     0     644     5680      `
+/244            0           0     0     644     15216     `
+/276            0           0     0     644     4048      `
+/311            0           0     0     644     15248     `
+/346            0           0     0     644     4096      `
+/384            0           0     0     644     40736     `
+/408            0           0     0     644     45760     `
+/435            0           0     0     644     92680     `
+/462            0           0     0     644     6168      `
+/494            0           0     0     644     194920    `

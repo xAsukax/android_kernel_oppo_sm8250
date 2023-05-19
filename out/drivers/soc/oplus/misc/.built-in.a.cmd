@@ -1,0 +1,1 @@
+cmd_drivers/soc/oplus/misc/built-in.a :=  rm -f drivers/soc/oplus/misc/built-in.a; llvm-ar rcSTPD drivers/soc/oplus/misc/built-in.a drivers/soc/oplus/misc/oplus_gpio/built-in.a

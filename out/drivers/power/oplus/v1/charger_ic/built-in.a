@@ -1,0 +1,15 @@
+!<thin>
+//                                              114       `
+oplus_charge_pump.o/
+oplus_da9313.o/
+oplus_battery_msm8250.o/
+oplus_mp2650.o/
+oplus_usbtemp.o/
+oplus_short_ic.o/
+
+/0              0           0     0     644     302624    `
+/21             0           0     0     644     295136    `
+/37             0           0     0     644     1641904   `
+/62             0           0     0     644     574208    `
+/78             0           0     0     644     421048    `
+/95             0           0     0     644     354432    `

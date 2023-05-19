@@ -1,0 +1,13 @@
+kernel/drivers/clk/qcom/clk-qcom.ko
+kernel/drivers/clk/qcom/camcc-kona.ko
+kernel/drivers/clk/qcom/clk-aop-qmp.ko
+kernel/drivers/clk/qcom/debugcc-kona.ko
+kernel/drivers/clk/qcom/dispcc-kona.ko
+kernel/drivers/clk/qcom/gcc-kona.ko
+kernel/drivers/clk/qcom/gpucc-kona.ko
+kernel/drivers/clk/qcom/npucc-kona.ko
+kernel/drivers/clk/qcom/videocc-kona.ko
+kernel/drivers/clk/qcom/a53-pll.ko
+kernel/drivers/clk/qcom/apcs-msm8916.ko
+kernel/drivers/clk/qcom/clk-rpmh.ko
+kernel/drivers/clk/qcom/clk-spmi-pmic-div.ko

@@ -1,0 +1,1 @@
+cmd_net/oplus_apps_monitor/built-in.a :=  rm -f net/oplus_apps_monitor/built-in.a; llvm-ar rcSTPD net/oplus_apps_monitor/built-in.a net/oplus_apps_monitor/oplus_apps_monitor.o net/oplus_apps_monitor/oplus_apps_power_monitor.o

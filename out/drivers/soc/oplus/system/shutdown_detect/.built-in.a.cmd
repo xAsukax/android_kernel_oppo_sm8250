@@ -1,0 +1,1 @@
+cmd_drivers/soc/oplus/system/shutdown_detect/built-in.a :=  rm -f drivers/soc/oplus/system/shutdown_detect/built-in.a; llvm-ar rcSTPD drivers/soc/oplus/system/shutdown_detect/built-in.a drivers/soc/oplus/system/shutdown_detect/shutdown_detect.o

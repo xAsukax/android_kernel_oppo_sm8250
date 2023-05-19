@@ -1,0 +1,1 @@
+cmd_drivers/misc/tri_state_key/ist_hall_ic/built-in.a :=  rm -f drivers/misc/tri_state_key/ist_hall_ic/built-in.a; llvm-ar rcSTPD drivers/misc/tri_state_key/ist_hall_ic/built-in.a drivers/misc/tri_state_key/ist_hall_ic/hall_ist8801_up.o drivers/misc/tri_state_key/ist_hall_ic/hall_ist8801_down.o

@@ -1,0 +1,43 @@
+!<thin>
+//                                              676       `
+util_interface/touch_interfaces.o/
+touchpanel_common_driver.o/
+touchpanel_healthinfo.o/
+touchpanel_exception.o/
+Synaptics/S3706/synaptics_drivers_s3706.o/
+Synaptics/Syna_tcm_oncell/synaptics_tcm_oncell.o/
+Synaptics/Syna_tcm_oncell/synaptics_tcm_device.o/
+Synaptics/synaptics_touch_panel_remote.o/
+Synaptics/synaptics_common.o/
+Focal/focal_common.o/
+Goodix/GT9886/goodix_drivers_gt9886.o/
+Goodix/goodix_common.o/
+Goodix/goodix_tool.o/
+Goodix/gtx8_tools.o/
+Novatek/novatek_common.o/
+Novatek/NT36523_noflash/nvt_drivers_nt36523_noflash.o/
+Samsung/S6SY771/sec_drivers_s6sy771.o/
+Samsung/sec_common.o/
+Samsung/S6SY791/sec_drivers_s6sy791.o/
+Samsung/S6SY792/sec_drivers_s6sy792.o/
+
+/0              0           0     0     644     273672    `
+/35             0           0     0     644     1075624   `
+/63             0           0     0     644     341688    `
+/88             0           0     0     644     145488    `
+/112            0           0     0     644     726632    `
+/155            0           0     0     644     762880    `
+/205            0           0     0     644     318712    `
+/255            0           0     0     644     229440    `
+/297            0           0     0     644     329152    `
+/327            0           0     0     644     352576    `
+/349            0           0     0     644     735944    `
+/388            0           0     0     644     319552    `
+/412            0           0     0     644     299608    `
+/434            0           0     0     644     291288    `
+/455            0           0     0     644     344016    `
+/481            0           0     0     644     765800    `
+/536            0           0     0     644     546104    `
+/575            0           0     0     644     325952    `
+/597            0           0     0     644     545464    `
+/636            0           0     0     644     549520    `
